@@ -4,7 +4,7 @@
 
 ![Go](https://img.shields.io/badge/Made%20with-Go-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square)
-![License](https://img.shields.io/github/license/yourusername/GoLangVPNWindow?style=flat-square)
+![License](https://img.shields.io/github/license/anh2ten/GoLangVPNWindow?style=flat-square)
 
 ---
 
