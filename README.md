@@ -36,13 +36,25 @@ This is ideal for:
 - Admin privileges (required to create VPN connections)
 
 ---
-
+ 
 ## 🚀 Getting Started
 
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/anh2ten/GoLangVPNWindow
+git clone https://github.com/anh2ten/GoLangVPNWindow.git
 cd GoLangVPNWindow
-go build -o vpnconnect.exe
+```
 
+### 2. Build the executable
+
+```bash
+go build -o vpnconnect.exe
+```
+
+### 3. Run the program
+
+```bash
+vpnconnect.exe
+```
+   
